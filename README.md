@@ -1,2 +1,2 @@
-# first_repo
-first_repo
+What's new:
+Created repository 
